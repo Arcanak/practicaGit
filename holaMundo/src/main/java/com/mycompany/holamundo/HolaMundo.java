@@ -12,5 +12,6 @@ package com.mycompany.holamundo;
 public class HolaMundo {
     public static void Main(String[] args){
         System.out.println("Hola mundo");
+        int bruh = 42;
     }
 }
