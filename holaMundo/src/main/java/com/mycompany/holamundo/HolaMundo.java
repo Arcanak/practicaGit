@@ -11,6 +11,6 @@ package com.mycompany.holamundo;
  */
 public class HolaMundo {
     public static void Main(String[] args){
-        System.err.println("Hola mundo");
+        System.out.println("Hola mundo");
     }
 }
